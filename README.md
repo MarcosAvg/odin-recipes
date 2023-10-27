@@ -1,0 +1,1 @@
+Este es el primer proyecto que se encuentra en el programa de ¨The Odín Project¨, El proyecto trata y ayuda a comprender los conceptos de HTML, al menos de momento, no contiene ningun tipo de estilos que sean añadidos con CSS ni interactividad con JavaScrip.
